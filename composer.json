@@ -1,5 +1,5 @@
 {
-    "name": "illuminate-example/eloquent",
+  "name": "illuminate-example/eloquent",
   "description": "Implementation of Database Queries with illuminate and Eloquent",
   "type": "project",
   "require": {
@@ -8,7 +8,6 @@
     {"psr-4":
       { "Controllers\\": "app/controllers/",
         "Models\\": "app/models/"
-
       }
     }
 }

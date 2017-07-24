@@ -7,3 +7,7 @@
  */
 
 require_once 'start.php';
+use Controllers\Users;
+
+// Import user controller
+$user = Users::create_user('user1','user1@example.com','user1_pass');
